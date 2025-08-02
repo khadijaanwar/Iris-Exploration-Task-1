@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/khadijaanwar/iris-data-exploration.git
+git clone https://github.com/khadijaanwar/Iris-Exploration-Task-1
 cd iris-data-exploration
 ```
 
